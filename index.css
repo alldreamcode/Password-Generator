@@ -1,0 +1,83 @@
+body {
+    margin: center;
+    background-color: #1F2937;
+}
+
+h1 {
+    font-family: Karla;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-weight: 800;  
+}
+
+h3 {
+    font-family: Inter;
+    text-align: left;
+    font-weight: lighter;
+    margin-left: 50px;
+    font-weight: 300;
+    color: #D1D5DB;
+    
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #2F3E53;
+    width: 75%;
+    margin: 0px auto;
+}
+
+#password-button {
+    border-radius: 4px;
+    padding: 8px;
+    font-family: Karla;
+    color: white;
+    background-color: #34D399;
+    border: 0ch;
+    margin: 40px;
+    margin-left: 50px;    
+}
+
+#filler1 {
+    border-radius: 4px;
+    font-family: Inter;
+    background-color: #273549;
+    border: 0ch;
+    margin: 30px;
+    margin-left: 50px;
+    width: 200px;
+    height: 40px;
+    color: #55F991;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+}
+
+#filler2 {
+    border-radius: 4px;
+    font-family: Inter;
+    color: #55F991;
+    background-color: #273549;
+    border: 0ch;
+    margin-left: 10px;
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+}
+
+#genText {
+    color: white;
+    height: 20px;
+}
+
+#ranText {
+    color: #34D399;
+    margin-top: 0px;
+    height: 20px;
+}
